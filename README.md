@@ -43,27 +43,6 @@ We understand there are several ways to identify pokemon beyond their actual nam
     - *Example:* Non_Legendary, Non_Legendary, Legendary
     - *Dataset:* Full dataset
 
-We started with a small data set from:
-- Kaggle. (KVPRATAMA). Pokémon Images Dataset. Retrieved from
-https://www.kaggle.com/datasets/kvpratama/pokemon-images-dataset
-
-Then we grew the dataset to get more training data to be required this included:
-- Kaggle. (LANCE ZHANG). Pokémon Classification. Retrieved from
-https://www.kaggle.com/datasets/lantian773030/pokemonclassification
-- Kaggle. (MIKOŁAJ KOLMAN). Pokemon Images, First Generation. Retrieved from
-https://www.kaggle.com/datasets/mikoajkolman/pokemon-images-first-generation17000-files
-
-- Google API Scraping
-- Pokemon Website Database: Veekun. (n.d.). Pokémon Image Dataset. Retrieved from https://veekun.com/dex/downloads
-
-From there we have reviewed and processed the images to ensure they are optimal for model training and evaluation. For example:
-- Removed files that are from a unsupported format
-- Removed images with poor image quality
-- Removed images with numerous Pokemon
-- Structured and organized images into to proper class subdirectories based on scenario and optimized for tensorflow and keras packages
- 
-  Link to final data: https://drive.google.com/drive/u/1/folders/1YE-8-DWiKzseB433Xep20aRRfi3eGdeN
-
 #### ``Example Classes Data``
 ![Image Description](https://github.com/Tyler-Gustafson/Multi_label_convolutional_neural_network_CNN/blob/main/01_background_info/data_sample_images_pokemon.jpg?raw=true)
 
