@@ -61,11 +61,11 @@ From there we have reviewed and processed the images to ensure they are optimal 
   Link to final data: https://drive.google.com/drive/u/1/folders/1YE-8-DWiKzseB433Xep20aRRfi3eGdeN
 
 #### ``Example Classes Data``
-
+![Image Description](https://github.com/Tyler-Gustafson/Multi_label_convolutional_neural_network_CNN/blob/main/01_background_info/data_sample_images_pokemon.jpg?raw=true)
 
 
 #### ``Overview of Results``
-
+![Image Description](https://github.com/Tyler-Gustafson/Multi_label_convolutional_neural_network_CNN/blob/main/01_background_info/preliminary_generalization_performance.jpg?raw=true)
 
   #### ``Notebook Structure``
 1. Imports
