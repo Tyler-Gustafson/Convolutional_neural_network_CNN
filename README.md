@@ -4,6 +4,8 @@
 **Author:** Tyler Gustafson
 *Summer 2024*
 
+**Full Write Up:** https://www.tylerjaygustafson.com/cnn-multi-classification
+
 #### ``Objectives``
 
 **Overview:** This project utilizes a Multi-Label Convolutional Neural Network (CNN) to identify and classify Pokémon based on images. The model is trained on a diverse dataset of Pokémon images, allowing it to predict multiple labels such as type and evolutionary stage. The goal is to achieve high accuracy in multi-label classification, showcasing the potential of CNNs in image recognition tasks.
