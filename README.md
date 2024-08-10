@@ -58,8 +58,8 @@ We understand there are several ways to identify pokemon beyond their actual nam
 5. Baseline "Naive" Model
 6. Building & Compiling Model
 7. Training
-8. Hyperparameter Tuning (TBD)
-9. Evaluation / Confusion Matrix
+8. Hyperparameter Tuning
+9. Evaluation / Learned Parameters
 10. Understanding Model Performance Under Various Scenarios
     - **Model 1: Class Target** - Individual Pokemon
     - **Model 2: Class Target** - By Pokemon Type
