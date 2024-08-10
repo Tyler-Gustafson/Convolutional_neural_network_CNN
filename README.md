@@ -2,6 +2,7 @@
 ### Multi-Label Convolutional Neural Network (CNN)
 
 **Author:** Tyler Gustafson
+
 *Summer 2024*
 
 **Full Write Up:** https://www.tylerjaygustafson.com/cnn-multi-classification
