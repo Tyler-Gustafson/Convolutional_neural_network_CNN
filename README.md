@@ -1,6 +1,6 @@
 ![Image Description](https://github.com/Tyler-Gustafson/Multi_label_convolutional_neural_network_CNN/blob/main/01_background_info/title_image.jpg)
 
-[Full Write Up](https://www.tylerjaygustafson.com/cnn-multi-classification)
+[Full Case Write Up](https://www.tylerjaygustafson.com/cnn-multi-classification)
 
 [Full Code Notebook](https://github.com/Tyler-Gustafson/Multi_label_convolutional_neural_network_CNN/blob/main/FINAL_NOTEBOOK_Convolutional_Neural_Network_Pokemon.ipynb)
 
